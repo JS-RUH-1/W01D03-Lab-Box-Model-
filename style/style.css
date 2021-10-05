@@ -17,5 +17,8 @@
 }
 
 img {
-    width: 740px;
+    width: 700px;
+    border-style: inset;
+    border-color: goldenrod;
+    border-width: 15px;
 }
