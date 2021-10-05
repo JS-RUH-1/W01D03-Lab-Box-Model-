@@ -1,0 +1,41 @@
+
+
+img{
+    margin: 20px;
+    /* padding: 20px; */
+    border: solid thick;
+    border-color: brown ;
+    height: 400px;
+    width: 400px;
+}
+#text{
+    margin: 20px;
+    padding: 20px;
+    
+    border:dashed;
+    border-color: chocolate;
+    height: 250px;
+    width: 300px;
+    overflow: scroll;
+    
+    
+
+}
+#main{
+    border: solid burlywood;
+    padding:5px;
+    margin: 5px;
+    height: 886px;
+    width: 455px;
+    background-color:yellow;
+}
+/* .text{
+    width: 30px;
+    height: 100px;
+    border: 1px solid blue;
+} */
+
+span{
+    text-decoration: underline;
+    font-weight: bolder;
+}
