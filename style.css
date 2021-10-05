@@ -1,0 +1,28 @@
+#main {
+    border-style: solid;
+    border-color: purple;
+    background-color: burlywood;
+    padding: 40px;
+    margin: 0 20% 0 20%;
+}
+
+#text {
+   
+    border-style: dotted;
+    border-width: 10px;
+    border-color: brown;
+    padding: 10px;
+    background-color: yellow;
+    width: 722px;
+    height: 150px;
+    overflow: scroll;
+
+}
+
+img {
+    
+    width: 700px;
+    border-style: inset;
+    border-color: goldenrod;
+    border-width: 30px;
+} 
