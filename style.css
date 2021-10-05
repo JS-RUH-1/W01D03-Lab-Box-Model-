@@ -1,0 +1,27 @@
+.allPage {
+  justify-content: center;
+}
+#main {
+  background-color: lightyellow;
+  border: solid 5px brown;
+  padding: 10px;
+  width: auto;
+}
+#text {
+  width: auto;
+  margin: 10px;
+  padding: 10px;
+  background-color: yellow;
+  border: dashed orange 10px;
+  height: 200px;
+  overflow: auto;
+  font-size: 18px;
+}
+.important {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.picture {
+  width: 97%;
+  border: 10px inset orange;
+}
