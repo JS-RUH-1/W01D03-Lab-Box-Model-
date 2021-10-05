@@ -1,0 +1,32 @@
+#main{
+    border-style: solid;
+    border-color: maroon;
+    border-width: 5px;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+
+}
+.picture{
+    border-style: solid;
+    border-color: orange;
+    border-width: 10px;
+
+}
+.important{
+text-decoration: underline;}
+.mm{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#text {
+    background: yellow;
+    background:yellow;
+    border-style: dashed;
+    border-color: coral;
+    border-width: 10px;
+}
+
+   
+
