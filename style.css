@@ -1,0 +1,47 @@
+.parent{
+     
+  
+    height: 30%;
+    width:100%;
+    border-style: solid ;
+    border-color: brown;
+      background-color: antiquewhite;
+       
+       
+
+      
+}
+
+#main{
+ 
+    position: relative;
+    display: flex;
+    flex-direction:row ; 
+    align-items: flex-start;
+
+    margin: 10px;    
+}
+
+.picture{
+    width: 30%;
+    height: 30%;
+}
+
+ 
+
+#text{
+    margin: 15px;
+    border-style: dashed;
+    border-color: orange;
+    padding:  15px;
+    background-color: yellow;
+    overflow: scroll;
+    height: 150px;
+    width: 77%;
+}
+
+span{
+
+    text-decoration: underline;
+    font-weight: bold;
+}
