@@ -10,7 +10,7 @@
     border-style:  inset;
     border-width: thick;
 }
-div#text{ border: orange;
+#text{ border: orange;
 border-style: dashed;
 border-width: thick;
 border-collapse: collapse;
