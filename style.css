@@ -1,9 +1,58 @@
+/*
+  Tasks 
+
+  1- make all elments align in the center of the page vertically 
+  2- make all elments align in the center of the page horizontally 
+  3- i want to see the picture on the right and the text on the left 
+  4- i want them to be equally sepreated between each other 
+
+  bouns 
+  1- Add 2 more pictures and have them occupy the same size as the horse.
+  2- Align them perpendicularly to the rest of the page 
+
+
+
+
+    1- Add to the main selector :
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    2-Add one we add to the main selector 
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    3- 
+
+        display:flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+    4-    
+        display:flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        align-items: center; 
+
+        Bounse is what in the main selector now below 
+
+        
+
+
+
+
+*/
+
+
+
 #main {
-    border-style: solid;
-    border-color: purple;
-    background-color: burlywood;
-    padding: 40px;
-    margin: 0 20% 0 20%;
+
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #text {
@@ -11,7 +60,6 @@
     border-style: dotted;
     border-width: 10px;
     border-color: brown;
-    padding: 10px;
     background-color: yellow;
     width: 722px;
     height: 150px;
