@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    border: 3px solid tomato;
+    width: 70%;
+    margin: 20px auto;
+    background-color: rgb(246, 254, 194);
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+#info h1 {
+    margin: 10px 0px;
+    font-size: 50px;
+}
+
+#info img {
+    width: 100%;
+    border: 5px;
+    border-style: inset;
+    border-color: tomato;
+}
+
+#text {
+    border: 5px;
+    border-style: dashed;
+    border-color: tomato;
+    height: 30vh;
+    overflow: scroll;
+}
