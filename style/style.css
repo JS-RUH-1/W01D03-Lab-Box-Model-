@@ -22,3 +22,8 @@ img {
     border-color: goldenrod;
     border-width: 15px;
 }
+
+.important {
+    text-decoration: underline;
+    font-weight: bold;
+}
