@@ -1,0 +1,32 @@
+#main{
+    margin-left: 170px;
+    border: 4px solid brown;
+    background-color: beige;
+    width: 700px;
+}
+.picture{
+   margin: 20px;
+    width: 600px;
+    border: 8px outset brown;
+
+}
+
+#text{
+    border: 4px dashed orange;
+    margin: 20px;
+    width: 600px;
+    height: 400px;
+    background-color: yellow;
+    overflow: scroll;
+    font-size: 28px;
+   
+}
+a{
+    color: black;
+    font-weight: bolder;
+}
+.important{
+    font-size: 28px;
+    font-weight: bold;
+
+}
