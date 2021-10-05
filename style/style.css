@@ -6,7 +6,7 @@
 }
 
 #text {
-    border-style: dotted;
+    border-style: dashed;
     padding: 10px;
     background-color: yellow;
     border-width: 8px;
