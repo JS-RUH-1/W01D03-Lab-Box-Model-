@@ -1,0 +1,41 @@
+#main {
+    border-style: solid;
+    border-color: brown;
+    padding: 20px;
+    margin: 0 20% 0 20%;
+}
+
+#text {
+    border-style: dashed;
+    padding: 10px;
+    background-color: yellow;
+    border-width: 8px;
+    width: 700px;
+    height: 150px;
+    overflow: scroll;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-style: inset;
+    border-color: goldenrod;
+    border-width: 15px;
+}
+
+.important {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.flex-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
