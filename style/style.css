@@ -1,0 +1,32 @@
+#main {
+  background-color: beige;
+  border-style: solid;
+  border-color: rgb(170, 170, 170);
+  border-width: 5px;
+  font-size: 40px;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.picture {
+  border-style: inset;
+  border-color: goldenrod;
+  border-width: 10px;
+  margin: auto;
+  width: 95%;
+  display: block;
+}
+.important {
+  text-decoration: underline;
+  font-weight: bold;
+}
+#text {
+  background-color: yellow;
+  border-style: dashed;
+  border-color: darkorange;
+  border-width: 10px;
+  font-size: 20px;
+  margin: auto;
+  width: 95%;
+  margin-top: 40px;
+}
