@@ -1,0 +1,21 @@
+#main {
+    border-style: solid;
+    border-color: brown;
+    padding: 20px;
+    margin: 0 20% 0 20%;
+}
+
+#text {
+    border-style: dotted;
+    padding: 10px;
+    background-color: yellow;
+    border-width: 8px;
+    width: 700px;
+    height: 150px;
+    overflow: scroll;
+
+}
+
+img {
+    width: 740px;
+}
