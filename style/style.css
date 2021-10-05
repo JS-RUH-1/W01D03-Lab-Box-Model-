@@ -17,7 +17,8 @@
 }
 
 img {
-    width: 700px;
+    width: 200px;
+    height: 200px;
     border-style: inset;
     border-color: goldenrod;
     border-width: 15px;
@@ -26,4 +27,15 @@ img {
 .important {
     text-decoration: underline;
     font-weight: bold;
+}
+
+.flex-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
 }
