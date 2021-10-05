@@ -1,0 +1,100 @@
+/* #text {
+  border: 15px dashed orange;
+  background-color: yellow;
+  font-size: 30px;
+  overflow: scroll;
+  padding: 10%;
+  margin: 5%;
+  width: 500px;
+  height: 500px;
+} */
+
+#text {
+  border: 15px dashed orange;
+  background-color: yellow;
+  font-size: 30px;
+  overflow: scroll;
+  /* padding: 2%; */
+  margin-top: 5%;
+  height: 300px;
+  width: 55%;
+}
+
+.picture {
+  border: 15px solid rgb(97, 83, 6);
+  border-style: outset;
+  height: 400px;
+  width: 400px;
+}
+.picture1 {
+  border: 15px solid rgb(97, 83, 6);
+  border-style: outset;
+  height: 184px;
+  width: 190px;
+}
+
+.important {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+/* #main {
+  border: solid;
+  border-color: red;
+  background-color: rgb(240, 235, 179);
+  padding: 4%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+} */
+
+/* Task1 */
+/* #main {
+  border: solid;
+  border-color: red;
+  background-color: rgb(240, 235, 179);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
+
+/* Task2 */
+/* #main {
+  border: solid;
+  border-color: red;
+  background-color: rgb(240, 235, 179);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+} */
+
+/* Task3 */
+#main {
+  border: solid;
+  border-color: red;
+  background-color: rgb(240, 235, 179);
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+}
+
+/* Task4 */
+/* #main {
+  border: solid;
+  border-color: red;
+  background-color: rgb(240, 235, 179);
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+} */
+
+.img2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
