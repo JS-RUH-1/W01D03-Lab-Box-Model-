@@ -1,0 +1,37 @@
+#main{
+    align-content: center;
+    border: 5px;
+    border-color: brown;
+    border-style: solid;
+    width: 900px;
+    margin: 100px;
+    background-color: wheat;
+}
+
+#text{
+    margin: 50px;
+
+    border-style: dashed;
+    border-color: burlywood;
+    border-width: 7px;
+    padding: 10px;
+    overflow: scroll;
+    height: 200px;
+    width: 700px;
+
+    background-color: yellow;
+}
+
+.picture{
+    border: burlywood;
+    margin: 50px;
+    border-style: solid;
+    border-width: 7px;
+    width: 700px;
+
+}
+.important{
+    font-weight: bold;
+    text-decoration: underline;
+
+}
