@@ -1,0 +1,32 @@
+.firstDiv {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    border-color: #A52A2A;
+    background-color: #FFFFE0;
+    text-align: center;
+}
+
+.horseImage {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #FFA500;
+}
+
+.highlighted {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.textDiv {
+    background-color: yellow;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #FFA500;
+    font-size: 22px;
+}
+
+h1 {
+    font-weight: bolder;
+}
