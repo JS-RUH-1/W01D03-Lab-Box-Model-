@@ -1,4 +1,6 @@
 /*
+ 5/10/2021 Abdulsalam Aldawsari
+ CSS
   Tasks 
 
   1- make all elments align in the center of the page vertically 
@@ -44,19 +46,27 @@
 
 
 */
+h1{
+    text-align: center;
+}
 
-
+.div-c{
+    padding :10px;
+    border: 2px solid brown;
+}
 
 #main {
 
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
 }
 
 #text {
-   
+    margin: 10px;
+    margin-left: 50%;
+    margin-left: 20%;
     border-style: dotted;
     border-width: 10px;
     border-color: brown;
@@ -68,8 +78,8 @@
 }
 
 img {
-    
-    width: 700px;
+    height: 400px;
+    width: 400px;
     border-style: inset;
     border-color: goldenrod;
     border-width: 30px;
