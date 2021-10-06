@@ -1,0 +1,18 @@
+#main{
+    width: 80%;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    background-color: rgb(228, 194, 149);
+}
+#text-1{
+    border:2px dashed black;
+    padding: 5px;
+    background-color:cornsilk;
+}
+.picture{
+    width: 300px;
+    border: 3px solid rgb(90, 40, 10);
+}
+
